@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/kuyona/wei/weihe4.0.4.ipa</string>
+					<string>https://github.com/kuyona/wei/blob/main/weihe4.0.4.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/kuyona/wei/icon57pt.png</string>
+					<string>https://github.com/kuyona/wei/blob/main/icon57pt.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/kuyona/wei/icon512pt.png</string>
+					<string>https://github.com/kuyona/wei/blob/main/icon512pt.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
